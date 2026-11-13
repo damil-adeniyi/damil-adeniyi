@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on Website Projects
 - 🌐 My Portfolio Website: https://damildev.tech/
-- 📫 How to reach me damiladeniyi301@gmail.com
+- 📫 How to reach me: damiladeniyi301@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love to watch Anime.
 
